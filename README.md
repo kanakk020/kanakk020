@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2F5F7&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Kanak+Saini)](https://git.io/typing-svg)
 
-I'm a first year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems.I'm currently into Web Development and Web Designing.
+I'm a Second year student pursuing Bachelors's in Computer Science 🎓 from AKTU University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains.I love to explore new technologies and leverage them to solve real-life problems.I'm currently into Web Development and Web Designing.
 
 I’m looking to collaborate🤝 on any Project involving HTML5 , CCS3 ,C,C++,Python,MySQL.
 
