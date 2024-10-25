@@ -31,8 +31,8 @@ Web Development
   
 ## My latest projects
 
-<a href="https://github.com/kanakk020/bank-management">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=kanakk020&repo=bank-management" alt="Bank Management" />
+<a href="https://github.com/kanakk020/AMAZON">
+  <img align="middle" src="https://github.com/kanakk020/AMAZON/blob/main/README.md" alt="Amazon Clone" />
 </a>
 <br/>
 <br/>
