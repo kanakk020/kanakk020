@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/kanakk_020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanakk_020" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/kanaksaini020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanaksaini020/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kanaksaini020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanaksaini020/" height="30" width="40" /></a>
  <a href="mailto:kanakksaini020@gmail.com" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="40" />
 </a>
