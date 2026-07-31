@@ -4,8 +4,6 @@
 
 <h3 align="center">I'm a passionate frontend web developer. I'm currently exploring the world of web development, learning by building cool projects.</h3>
 
-<h2 align="center">🌱 Currently learning React & Java</h2>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/kanakk_020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanakk_020" height="30" width="40" /></a>
