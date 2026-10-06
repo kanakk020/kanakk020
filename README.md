@@ -31,8 +31,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kanakk020&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/kanakk020?label=FOLLOWERS&style=for-the-badge&color=EC4899"/>
 
 <img src="https://img.shields.io/github/stars/kanakk020?label=STARS&style=for-the-badge&color=38BDF8"/>
